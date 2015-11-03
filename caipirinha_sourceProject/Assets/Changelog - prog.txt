@@ -1,0 +1,7 @@
+Ao alterar a versão do jogo adicionar as mudanças no changelog.
+Ex:
+==== projetoExemplo_0.7 ====
++Nome do programador
+	-Adicionado menu inicial;
+	-Adicionado nova mecanica X;
+	-Corrigido bug Y;
